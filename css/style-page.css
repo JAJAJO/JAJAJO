@@ -1,0 +1,36 @@
+
+/*Posting*/
+
+/*end posting*/
+
+/*Pagination*/
+
+.pagination{
+	text-align: center;
+	margin: auto;
+	background: red;
+}
+
+/*End Pagination*/
+
+/* Removes the default 20px margin and creates some padding space for the indicators and controls */
+body { padding-top: 20px; }
+#myCarousel .nav a small {
+    display:block;
+}
+#myCarousel .nav {
+	background:#eee;
+}
+#myCarousel .nav a {
+    border-radius:0px;
+}
+
+.thumbnail{
+	box-shadow: none;
+}
+.thumbnail:hover{
+	box-shadow: none;
+}
+.list-group-item{
+	text-align: left;
+}
